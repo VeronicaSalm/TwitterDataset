@@ -1,5 +1,5 @@
 # TwitterDataset
-Contains the tweets extracted from the Covid-19 twitter dataset for our CMPUT 466 project.
+Contains the tweets extracted from the Covid-19 twitter dataset for our CMPUT 466 project. It represents a subset of the tweets (after being hydrated, with only a subset of the provided fields) from https://github.com/echen102/COVID-19-TweetIDs.
 
 ## Description of Dataset
 
